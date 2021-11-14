@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Alice-1012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ☔️ binary는 호남선~
+- 🚂 num row column char에~
+- 🪟 흔들리는 char char null머로~
+- 💧 bit 물이 흐르고~
+- 😭 내 root물도 흐르고~
+- 😘 int error버린 첫사랑도 흐르네~
 
 <!---
 Alice-1012/Alice-1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,5 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=us980525)](https://solved.ac/us980525)
 - ☔️ binary는 호남선~
 - 🚂 num row column char에~
 - 🪟 흔들리는 char char null머로~
